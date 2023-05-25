@@ -51,7 +51,7 @@ A working Twitter clone built in Flutter using Firebase auth,realtime,firestore 
 
 Welcome Page               |  Login Page               | Signup Page               |  Forgot Password Page
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Auth/screenshot_1.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Auth/screenshot_2.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Auth/screenshot_3.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Auth/screenshot_4.jpg?raw=true)|
+![](https://github.com/rahultg08/flutter_twitter_clone/blob/master/screenshots/Auth/screenshot_1.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Auth/screenshot_2.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Auth/screenshot_3.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Auth/screenshot_4.jpg?raw=true)|
 
 Home Page Sidebaar         |  Home Page       |   Home Page               |  Home Page
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
@@ -248,7 +248,7 @@ and send a [pull request](https://github.com/TheAlphamerc/flutter_twitter_clone/
 ## Contributors
 * [Rahul TG](https://github.com/rahultg08)
 * [Rushil MS](https://github.com/rushilms)
-* [Sudhanva GV](https://github.com/RiccardoM)
+* [Sudhanva GV]()
 
 ## Visitors Count
 
