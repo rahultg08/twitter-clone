@@ -241,22 +241,15 @@ and send a [pull request](https://github.com/TheAlphamerc/flutter_twitter_clone/
 
 ## Created & Maintained By
 
-[Sonu Sharma](https://github.com/TheAlphamerc) ([Twitter](https://www.twitter.com/TheAlphamerc)) ([Youtube](https://www.youtube.com/user/sonusharma045sonu/)) ([Insta](https://www.instagram.com/_sonu_sharma__)) ([Dev.to](https://dev.to/thealphamerc))
-  ![Twitter Follow](https://img.shields.io/twitter/follow/thealphamerc?style=social) 
-
-> If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
->
-> * [PayPal](https://paypal.me/TheAlphamerc/)
-
-> You can also nominate me for Github Star developer program
-> https://stars.github.com/nominate
+[Rahul TG](https://github.com/rahultg08) ([Twitter](https://twitter.com/RahulTG08)) ([Insta](https://www.instagram.com/_rahul_tg_/))
+  ![Twitter Follow](https://img.shields.io/twitter/follow/rahultg08?style=social) 
 
 
 ## Contributors
-* [TheAlphamerc](https://github.com/TheAlphamerc/TheAlphamerc)
-* [Liel Beigel](https://github.com/lielb100)
-* [Riccardo Montagnin](https://github.com/RiccardoM)
-* [Suriyan](https://github.com/imsuriyan)
+* [Rahul TG](https://github.com/rahultg08)
+* [Rushil MS](https://github.com/rushilms)
+* [Sudhanva GV](https://github.com/RiccardoM)
+
 ## Visitors Count
 
 <img align="left" src = "https://profile-counter.glitch.me/flutter_twitter_clone/count.svg" alt ="Loading">
